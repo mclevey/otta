@@ -1,0 +1,89 @@
+oil:
+  - oil
+  - drilling
+  - fracking
+  - offshore
+  - opec
+  - energy
+  - fossil
+  - fuel
+renewable:
+  - green
+  - renewable
+  - energy
+fish:
+  - fish
+  - fisheries
+  - fishery
+oceans:
+  - ocean
+  - sea
+  - seabed
+  - marine
+  - coast
+  - coastal
+climate_change:
+  - climate
+  - carbon
+  - emissions
+  - CO2
+  - COP
+ccew_events:
+  - flooding
+  - storm
+  - storms
+  - warming
+  - levels
+  - rising
+  - melting
+environment:
+  - environment
+  - environmental
+  - nature
+  - landscape
+  - wildlife
+tourism:
+  - tourism
+  - tourist
+  - culture
+  - cultural
+ecotourism:
+  - hiking
+  - kayaking
+  - surfing
+  - birdwatchers
+  - birdwatching
+government:
+  - government
+  - state
+  - political
+  - politician
+  - diplomat
+  - national
+movements:
+  - activist
+  - movement
+  - protest
+  - greenpeace
+economy:
+  - economic
+  - economy
+  - market
+  - price
+  - employment
+  - jobs
+international:
+  - international
+  - global
+  - foreign
+arctic:
+  - arctic
+  - polar
+  - ice
+science:
+  - science
+  - scientists
+  - evidence
+  - research
+sustain:
+  - sustainability
