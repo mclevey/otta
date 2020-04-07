@@ -11,17 +11,17 @@ nlp = spacy.load('en_core_web_sm')
 with open('../data/inter/sl_text', 'r') as dillfile:
     sl_text = dill.load(sl_text, dillfile)
 
-with open('../data/inter/il_text', 'r') as dillfile:
-    il_text = dill.load(il_text, dillfile)
+with open('../data/inter/il_text', 'rb') as dillfile:
+    il_text = dill.load(dillfile)
 
-with open('../data/inter/dk_text', 'r') as dillfile:
-    dk_text = dill.load(dk_text, dillfile)
+with open('../data/inter/dk_text', 'rb') as dillfile:
+    dk_text = dill.load(dillfile)
 
-with open('../data/inter/nl_text', 'r') as dillfile:
-    nl_text = dill.load(nl_text, dillfile)
+with open('../data/inter/nl_text', 'rb') as dillfile:
+    nl_text = dill.load(dillfile)
 
-with open('../data/inter/no_text', 'r') as dillfile:
-    no_text = dill.load(no_text, dillfile)
+with open('../data/inter/no_text', 'rb') as dillfile:
+    no_text = dill.load(dillfile)
 
 print(len(no_text))
 print(len(nl_text))

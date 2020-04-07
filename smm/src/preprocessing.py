@@ -26,7 +26,7 @@ nl_text = newfoundland_labrador['content']
 def process_texts(texts):
     processed = []
 
-    for doc in nlp.pipe(texts, disable=["tagger", "parser"]):
+    for doc in nlp.pipe(texts):
         pos_tags = ['NOUN', 'PROPN', 'ADJ', 'VERB', 'AUX']
 
         proc = []
